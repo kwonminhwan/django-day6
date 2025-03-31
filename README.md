@@ -1,0 +1,1 @@
+# django-day6
